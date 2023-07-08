@@ -17,7 +17,7 @@ crossing one of the lines.
 * `nr_needles` - the number of dropped needles visually displayed on the screen
 * `nr_lines` - the number of lines
 
+![](Images/2.png)
+
 ## Example:
 * `needle(10, 5, 10000000000, 100, 2) => 3.141583382937757`
-
-![](Images/2.png)
